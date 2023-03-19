@@ -2,7 +2,7 @@
 
 ## This is my frist project in SQL
 
-### This project is part from SQL for Data Analysis: 
+### This project is part of SQL for Data Analysis course: 
     Beginner MySQL Business Intelligence course from maven analytics[Udemy]
 ### The linke of the course: 
    [link](https://www.udemy.com/course/mysql-for-data-analysis/)
