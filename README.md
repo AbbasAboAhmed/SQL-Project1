@@ -27,7 +27,7 @@ you to write a multi-table SQL query, joining at least two tables.
 
 1. Write SQL queries to explore and analyze databases with MySQL Workbench.
 2. Analyze data across multiple tables with powerful MySQL JOIN statements.
-3. Master unique tips, tools and case.
+3. Master unique tips and tools.
 4. Learn how to use SQL to extract, sort, filter, and group data quickly and efficiently.
-5. Solve practical hands-on assignments and real-world business use cases.
+
 
